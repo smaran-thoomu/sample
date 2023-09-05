@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--smaran-sthoomu1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b83c1ed3-c5b6-44fb-b5ba-2b83a074c23f/resourceGroups/rq-sthoomu-quadrant/providers/Microsoft.Storage/storageAccounts/sthoomu1",
+		"groupId": "dfs"
+	}
+}

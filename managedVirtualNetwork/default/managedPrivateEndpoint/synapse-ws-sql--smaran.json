@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--smaran",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b83c1ed3-c5b6-44fb-b5ba-2b83a074c23f/resourceGroups/rq-sthoomu-quadrant/providers/Microsoft.Synapse/workspaces/smaran",
+		"groupId": "sql",
+		"fqdns": [
+			"smaran.f13406b5-3d86-488a-adbc-d91ab21662f3.sql.azuresynapse.net"
+		]
+	}
+}
