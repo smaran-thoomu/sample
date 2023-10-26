@@ -1,0 +1,9 @@
+{
+	"name": "Smaran",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08e68e6a-bba1-4790-a9e4-85da7237be5d",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
